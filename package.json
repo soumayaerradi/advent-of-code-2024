@@ -1,0 +1,39 @@
+{
+  "name": "advent-of-code-2024",
+  "version": "1.0.0",
+  "description": "",
+  "main": "day1.js",
+  "scripts": {
+    "day1": "node day1.js",
+    "day2": "node day2.js",
+    "day3": "node day3.js",
+    "day4": "node day4.js",
+    "day5": "node day5.js",
+    "day6": "node day6.js",
+    "day7": "node day7.js",
+    "day8": "node day8.js",
+    "day9": "node day9.js",
+    "day10": "node day10.js",
+    "day11": "node day11.js",
+    "day12": "node day12.js",
+    "day13": "node day13.js",
+    "day14": "node day14.js",
+    "day15": "node day15.js",
+    "day16": "node day16.js",
+    "day17": "node day17.js",
+    "day18": "node day18.js",
+    "day19": "node day19.js",
+    "day20": "node day20.js",
+    "day21": "node day21.js",
+    "day22": "node day22.js",
+    "day23": "node day23.js",
+    "day24": "node day24.js",
+    "day25": "node day25.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
